@@ -3,3 +3,7 @@ package-lock.json
 /dist
 /src/*.js
 /src/*.d.ts
+/src/*.d.ts.map
+.tern-*
+
+tmp/lezer-d-0.16.0.tgz
